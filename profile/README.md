@@ -16,7 +16,7 @@ Public Domain Map is developed and maintained in collaboration with the US Depar
 
 ## Contribution
 
-Contribution guidelines will be developed soon! If you would like to contribute to the project at this stage, please reach out to us directly at <team@openstreetmap.us>.
+Contribution guidelines will be developed soon! If you would like to contribute to the project at this stage, please reach out to us directly at <admin@publicdomainmap.org>.
 
 ## Code of Conduct
 
